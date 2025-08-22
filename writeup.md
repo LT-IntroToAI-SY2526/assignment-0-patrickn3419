@@ -18,7 +18,7 @@ When you make changes to your project on your computer, you may want to commit w
 
 **3. What is a repository and what does it contain?**
 
-A repository contains all of the files and saved changes to a project.
+A repository is like a project folder which can be shared with other people to collaborate on. A repository contains all of the files and saved changes to a project.
 
 ---
 
