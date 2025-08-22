@@ -14,11 +14,11 @@ Git is a "distributed Version Control System," meaning that it is a tool that is
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+When you make changes to your project on your computer, you may want to commit when you want to keep track of a series of changes. You can also label commits to communicate what you did. Pushing is making it so all of the changes you made to the project on your computer are saved and made to the project online.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository contains all of the files and saved changes to a project.
 
 ---
 
