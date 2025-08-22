@@ -34,7 +34,7 @@ A repository is like a project folder which can be shared with other people to c
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm really excited to learn python
 
 ---
 
