@@ -10,7 +10,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-Git is a "distributed Version Control System," meaning that it is a tool that is used by code developers for easy tracking of changes to their code. It can also be used for groups of people who want to collaborate on a single project together. Github is an easy to use interface with the same abilities as Git and is also online.
+Git is a "distributed Version Control System," meaning that it is a tool that is used by code developers for easy tracking of changes to their code. It can also be used for groups of people who want to collaborate on a single project together. Github is an easy to use interface with the same abilities as Git. Github is also all online.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
