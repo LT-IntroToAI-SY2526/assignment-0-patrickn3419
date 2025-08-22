@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Patrick Nyman  
+**Date:** 8/22/2025
 
 ---
 
