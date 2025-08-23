@@ -26,8 +26,7 @@ A repository is like a project folder which can be shared with other people to c
 
 **Link to your GitHub profile repository:** 
 
-[https://github.com/patrickn3419/patrickn3419]
-(https://github.com/patrickn3419/patrickn3419)
+https://github.com/patrickn3419/patrickn3419
 
 ---
 
