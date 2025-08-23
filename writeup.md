@@ -26,7 +26,8 @@ A repository is like a project folder which can be shared with other people to c
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+[https://github.com/patrickn3419/patrickn3419]
+(https://github.com/patrickn3419/patrickn3419)
 
 ---
 
@@ -34,7 +35,7 @@ A repository is like a project folder which can be shared with other people to c
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I'm really excited to learn python
+I'm really excited to learn python and become more familiar with coding as a skill. I am the most excited to learn about the code behind AI and how I can use this knowledge on my own.
 
 ---
 
